@@ -1,12 +1,20 @@
 body {
     margin: auto;
-    width: 65%;
-    max-width: 57em;
-    padding: 10px;
+    width: 55%;
+    min-width: 20em;
+    max-width: 50em;
+    padding-top: 4em;
+    padding-right: 3em;
+    padding-left: 3em;
+    padding-bottom: 0.5em;
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
     background-color: #f3f3f3;
+}
 
+p {
+    font-size: 0.9em;
+    color: #080808;
 }
 
 h1 {
@@ -21,4 +29,3 @@ footer {
   padding-top: 2em;
   padding-bottom: 1em;
 }
-
